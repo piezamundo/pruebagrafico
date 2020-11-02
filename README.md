@@ -1,2 +1,0 @@
-# pruebagrafico
-Gráfico prueba
